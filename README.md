@@ -1,36 +1,99 @@
-<div align="center">
+<h1 align="center">Hi, I'm Shruti Pol 👋</h1>
 
-<img src="assets/profile-card.svg" width="100%" alt="Shruti Pol - GitHub Profile">
+<h3 align="center">Building GenAI & Agentic AI Systems</h3>
 
-</div>
+---
 
-## 👋 Hi, I'm Shruti Pol
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**Building GenAI & Agentic AI Systems**
+## About Me
 
-I’m focused on **Data Science, Machine Learning, and intelligent AI systems**, with a strong interest in building solutions that solve real-world problems.
+I’m focused on **Data Science, Generative AI, and Agentic AI**, with a strong interest in building intelligent systems that solve real-world problems.
 
-Currently exploring **Generative AI, LLMs, RAG, LangChain, LangGraph, and AI Agents** — especially how AI systems can retrieve knowledge, reason through tasks, use tools, and automate complex workflows.
+My current work and learning focus on **Python, Machine Learning, LLMs, RAG, LangChain, LangGraph, and AI Agents**. I’m exploring how AI systems can retrieve knowledge, reason through tasks, use tools, and automate complex workflows.
 
-I also have a foundation in **full-stack development**, using **React, JavaScript, Node.js, Express, SQL, HTML, CSS, REST APIs, Git, and GitHub** to turn ideas into practical applications.
+I also have a foundation in **Full Stack Development**, with experience working with **React.js, JavaScript, HTML, CSS, APIs, Git, and databases**. This allows me to combine AI capabilities with practical, user-focused web applications.
 
-### 🧠 Tech Stack
+I’m continuously building projects and strengthening my skills across **GenAI, Agentic AI, Data Science, and Machine Learning**, with a focus on turning ideas into functional and scalable solutions.
 
-**Data Science & AI**  
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Jupyter` `SQL`
+</td>
 
-**Machine Learning & GenAI**  
-`Machine Learning` `Deep Learning` `Generative AI` `LLMs` `RAG` `LangChain` `LangGraph` `AI Agents`
+<td width="40%" align="center" valign="middle">
 
-**Full Stack**  
-`React.js` `JavaScript` `Node.js` `Express.js` `HTML5` `CSS3` `REST APIs` `Git` `GitHub`
+<img src="./cat.png" width="300px" alt="Pixel Cat"/>
 
-### 🔗 Connect
+</td>
+</tr>
+</table>
 
-[LinkedIn](https://www.linkedin.com/in/shruti-pol-b82667330/) • [GitHub](https://github.com/ShrutiPol09) • [Email](mailto:shrutiii943@gmail.com)
+<br>
 
-<div align="center">
+## Skills & Technologies
 
-✨ **Exploring AI • Learning • Building • Improving** ✨
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+### Data Science
+
+<p>
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/NumPy-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Scikit--learn-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Matplotlib-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/LangChain-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### Full Stack
+
+<p>
+<img src="https://img.shields.io/badge/React.js-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/HTML-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/CSS-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/REST_APIs-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=flat-square&labelColor=0D1117&color=8B5CF6"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shruti-pol-b82667330/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/ShrutiPol09">
+<img src="https://img.shields.io/badge/GitHub-ShrutiPol09-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:shrutiii943@gmail.com">
+<img src="https://img.shields.io/badge/Email-shrutiii943@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
