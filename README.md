@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shruti Pol 👋</h1>
+<h1 align="center">Hi, I'm Shruti Pol🌙</h1>
 
 <h3 align="center">Building GenAI & Agentic AI Systems</h3>
 
