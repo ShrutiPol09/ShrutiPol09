@@ -1,5 +1,10 @@
-<h1 align="center">Hi, I'm Shruti Pol🌙</h1>
+<div align="center">
 
+<a href="https://github.com/ShrutiPol09">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&style=italic&size=52&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=100&lines=Shruti+Pol+%F0%9F%8C%99" alt="Shruti Pol"/>
+</a>
+
+</div>
 <h3 align="center">Building GenAI & Agentic AI Systems</h3>
 
 ---
