@@ -1,96 +1,69 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         GALAXY HEADER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:312E81,75:4C1D95,100:2563EB&height=230&section=header&text=SHRUTI%20POL&fontSize=58&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Data%20Science%20%E2%9C%A6%20Agentic%20AI%20%E2%9C%A6%20Engineering&descAlignY=62&descSize=19&descColor=C4B5FD"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:111827,65:312E81,85:4C1D95,100:2563EB&height=190&section=header&text=SHRUTI%20POL&fontSize=52&fontColor=E5E7EB&animation=twinkling&fontAlignY=42&desc=INTELLIGENT%20SYSTEMS%20BUILDER&descSize=15&descAlignY=65&descColor=93C5FD"/>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=800&color=93C5FD&center=true&vCenter=true&width=800&lines=Building+Intelligent+Systems+%F0%9F%8C%8C;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96;Data+%7C+Models+%7C+Agents+%7C+Applications;Learning+%E2%86%92+Building+%E2%86%92+Improving+%E2%9C%A8;Turning+Ideas+Into+Working+Systems+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=exploring+the+world+of+intelligent+systems;learning+%7C+building+%7C+experimenting;GenAI+%7C+RAG+%7C+AI+Agents+%7C+Data;turning+ideas+into+something+real+%E2%9C%A8"/>
 
 <br><br>
 
-<!-- SOCIAL LINKS -->
-
 <a href="https://www.linkedin.com/in/shruti-pol-b82667330/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-090D18?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
 </a>
 
 <a href="mailto:shrutiii943@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=E5E7EB"/>
+<img src="https://img.shields.io/badge/GMAIL-090D18?style=for-the-badge&logo=gmail&logoColor=C4B5FD"/>
 </a>
 
 <a href="https://github.com/ShrutiPol09">
-<img src="https://img.shields.io/badge/GITHUB-0B1020?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/GITHUB-090D18?style=for-the-badge&logo=github&logoColor=E5E7EB"/>
 </a>
 
 <br><br>
 
-<!-- GALAXY DECORATION -->
-
-✦　⋆　✧　☄️　⋆　✦　🌙　✧　⋆　🪐　⋆　✦　☄️　✧　⋆　✦
+✦　⋆　✧　·　☄️　·　✧　⋆　✦　🪐　✦　⋆　✧　·　☄️　·　✧　⋆　✦
 
 </div>
 
 ---
 
-<div align="center">
-
-# `> Hello, World! 👋`
-
-### **Shruti Pol**
-
-`Data Science`　✦　`Agentic AI`　✦　`Engineering`
-
-</div>
-
-<br>
-
 <table>
 <tr>
 
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
-## 🌌 Exploring the AI Universe
+### `> Hey there, I'm Shruti 👋`
 
-I'm focused on **Data Science and Agentic AI**, with a strong interest in building intelligent systems that solve real-world problems.
+**Intelligent Systems Builder**
 
-My current learning and development revolves around:
+I'm interested in understanding how data and intelligent models can be turned into useful real-world systems.
 
-- 🐍 **Python & Data Science**
-- 🧠 **Machine Learning**
-- ✨ **Generative AI**
-- 🤖 **AI Agents**
-- 🔎 **RAG & Knowledge Retrieval**
-- 🔗 **LangChain & LangGraph**
-- ⚙️ **AI Workflows & Automation**
-- 🌐 **AI-powered Full Stack Applications**
+Currently exploring **Data Science, Machine Learning, Generative AI and Agentic AI** — especially systems that can retrieve knowledge, reason through tasks, use tools and automate workflows.
 
-I'm particularly interested in understanding how intelligent systems can **retrieve information, reason through tasks, use tools, and automate complex workflows.**
+My current playground includes **Python, LLMs, RAG, LangChain, LangGraph and AI Agents**, along with **React and the MERN stack** for building the applications around them.
+
+<br>
+
+`learn → experiment → build → repeat`
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center">
 
 <br>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230"/>
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ9J7i4qQw/giphy.gif" width="180"/>
 
 <br><br>
 
-### `🪐 Exploring...`
+`🌌 somewhere between`
 
-**Data → Intelligence → Agents**
+`data & intelligence`
 
 <br>
 
-✦ ⋆ ✧ ⋆ ✦ ⋆ ✧ ⋆ ✦
+✦ ⋆ ✧ 🪐 ✧ ⋆ ✦
 
 </td>
 
@@ -101,44 +74,68 @@ I'm particularly interested in understanding how intelligent systems can **retri
 
 <div align="center">
 
-## ✦ My AI Universe ✦
+### `✦ THE TOOLKIT ✦`
 
-```text
-                         ✦
-                    .         .
-              ✧          🪐          ✧
-                    .         .
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ DATA SCIENCE│
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │   MACHINE   │
-                  │   LEARNING  │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  GENERATIVE │
-                  │      AI     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │     RAG     │
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │ AI AGENTS 🤖│
-                  └──────┬──────┘
-                         │
-                         ▼
-                  ┌─────────────┐
-                  │  AGENTIC AI │
-                  └─────────────┘
+<br>
 
-             ✦       ⋆       ☄️       ⋆       ✦
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,html,css,git,github&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-080B16?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Pandas-080B16?style=flat-square&logo=pandas&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-080B16?style=flat-square&logo=scikit-learn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/LangChain-080B16?style=flat-square&logo=chainlink&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LangGraph-080B16?style=flat-square&logo=graphql&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/RAG-080B16?style=flat-square&logo=googlecloud&logoColor=93C5FD"/>
+<img src="https://img.shields.io/badge/LLMs-080B16?style=flat-square&logo=openai&logoColor=E5E7EB"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌙 `CURRENTLY EXPLORING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=60A5FA&center=true&vCenter=true&width=600&lines=Retrieval+Augmented+Generation;AI+Agents+%26+Tool+Calling;Multi-Step+AI+Workflows;LLM+Applications;Data+%2B+Intelligence;AI+%2B+Full+Stack"/>
+
+<br>
+
+✧　　　　　　　　　　　　　　　　　✦　　　　　　　　　　　　　　　　　✧
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShrutiPol09&show_icons=true&hide_border=true&bg_color=050816&title_color=A78BFA&icon_color=60A5FA&text_color=C7D2FE"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiPol09&layout=compact&hide_border=true&bg_color=050816&title_color=A78BFA&text_color=C7D2FE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ☄️ `A SMALL STEP INTO THE GALAXY`
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="85%"/>
+
+<br><br>
+
+✦　⋆　☄️　⋆　🪐　⋆　✧　⋆　🌙　⋆　✦
+
+<br><br>
+
+**`Keep exploring. Keep building.`**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:312E81,60:4C1D95,80:2563EB,100:CBD5E1&height=100&section=footer&animation=twinkling"/>
+
+</div>
